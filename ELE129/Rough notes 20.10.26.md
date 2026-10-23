@@ -1,0 +1,45 @@
+Instantiate a struct using the struct keyword beforehand i.e. `struct WindowSwitches t;`
+
+Initialise a struct as you would initialise an array, making sure you maintain the order variables are declared.
+
+
+Alternatively define a struct using the notation `typedef struct {} StructName;` then instantiate like this `StructName instance;` to avoid writing struct constantly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
